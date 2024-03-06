@@ -5,3 +5,5 @@
 - Clonar repositório
 - Fazer commits locais
 - Fazer push
+
+> Texto
